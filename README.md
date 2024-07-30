@@ -12,7 +12,7 @@ El proyecto está organizado de la siguiente manera:
 - `Iteracion 1/`: Primer acercamiento al procesamiento de texto.
 - `Iteracion 2/`: Proceso de limpieza y filtrado de los datos.
 - `Diagnostico PADCHEST/`: Datos originales.
-- `Modelo_filan`: Scripts para preprocesamiento de datos, entrenamiento y evaluación del modelo.
+- `Modelo_Final`: Scripts para preprocesamiento de datos, entrenamiento y evaluación del modelo.
 
 ## Requisitos
 
