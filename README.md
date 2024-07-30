@@ -41,11 +41,11 @@ Este proyecto implementa dos tipos de mecanismos de atención:
 
 Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
 
-1. Haz un fork del repositorio.
+1. Haz un fork del repositorio [Trabajo-Grado](https://github.com/fabirian/Trabajo-Grado).
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`).
 3. Realiza los commits de tus cambios (`git commit -m 'Add some AmazingFeature'`).
 4. Empuja tu rama (`git push origin feature/AmazingFeature`).
-5. Abre un Pull Request.
+5. Abre un Pull Request en el repositorio original.
 
 ## Licencia
 
