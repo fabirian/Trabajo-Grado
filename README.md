@@ -53,6 +53,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Para cualquier consulta o información adicional, puedes contactarnos en [afgalindez@unicauca.edu.co](mailto:afgalindez@unicauca.edu.co) o
+Para cualquier consulta o información adicional, puedes contactarnos en
+[afgalindez@unicauca.edu.co](mailto:afgalindez@unicauca.edu.co) o
 [santiagorap@unicauca.edu.co](mailto:santiagorap@unicauca.edu.com).
 
