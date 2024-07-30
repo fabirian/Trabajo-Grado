@@ -87,4 +87,3 @@ Para cualquier consulta o información adicional, puedes contactarnos en:
 
 - [afgalindez@unicauca.edu.co](mailto:afgalindez@unicauca.edu.co)
 - [santiagorap@unicauca.edu.co](mailto:santiagorap@unicauca.edu.co)
-```
