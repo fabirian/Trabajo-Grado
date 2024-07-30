@@ -68,7 +68,7 @@ Este proyecto utiliza el dataset PADChest-COVID-19 para entrenamiento y evaluaci
 Asegúrate de seguir las instrucciones en el repositorio para obtener los datos correctos y para su adecuada integración en tu entorno de trabajo.
 
 ### Licencia
-Este proyecto está licenciado bajo la Licencia Pública General de GNU v3.0 (GPL 3.0). Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la Licencia Pública General de GNU v3.0 (GPL 3.0). Para más detalles, consulta el archivo [LICENSE](LICENSE.md).
 
 ### Contribuir
 
