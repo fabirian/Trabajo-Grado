@@ -41,13 +41,14 @@ Este proyecto implementa dos tipos de mecanismos de atención:
 
 Este proyecto utiliza el dataset PADChest-Neumonia para entrenamiento y evaluación. Puedes descargar el dataset desde el siguiente enlace:
 
-- [Dataset PADChest-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
+## Dataset
 
-![image](https://github.com/user-attachments/assets/2fc11257-ab35-4036-9dbc-fddf221973a5)
+Este proyecto utiliza el dataset PADChest-COVID-19 para entrenamiento y evaluación. Puedes descargar el dataset desde los siguientes enlaces:
 
+- [Repositorio PADChest-COVID-19 en GitHub](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
+- [Descargar desde BSC-TranBioNet](https://b2drop.bsc.es/index.php/s/BIMCV-PadChest)
 
 Asegúrate de seguir las instrucciones en el repositorio para obtener los datos correctos y su correcta integración en tu entorno de trabajo.
-
 
 ## Contribuir
 
