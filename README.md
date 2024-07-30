@@ -77,10 +77,6 @@ Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
 4. Empuja tu rama (`git push origin feature/AmazingFeature`).
 5. Abre un Pull Request en el repositorio original.
 
-### Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ### Contacto
 
 Para cualquier consulta o información adicional, puedes contactarnos en:
