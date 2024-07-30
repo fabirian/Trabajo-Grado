@@ -37,6 +37,18 @@ Este proyecto implementa dos tipos de mecanismos de atención:
 1. **Self-Attention**: Utilizado en la arquitectura de Transformer para mejorar la interpretación de las imágenes.
 2. **Bahdanau Attention**: Integrado en el decodificador para mejorar la generación de reportes.
 
+## Dataset
+
+Este proyecto utiliza el dataset PADChest-Neumonia para entrenamiento y evaluación. Puedes descargar el dataset desde el siguiente enlace:
+
+- [Dataset PADChest-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
+
+![image](https://github.com/user-attachments/assets/2fc11257-ab35-4036-9dbc-fddf221973a5)
+
+
+Asegúrate de seguir las instrucciones en el repositorio para obtener los datos correctos y su correcta integración en tu entorno de trabajo.
+
+
 ## Contribuir
 
 Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
