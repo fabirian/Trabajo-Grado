@@ -63,7 +63,7 @@ Este proyecto implementa dos tipos de mecanismos de atención:
 Este proyecto utiliza el dataset PADChest-COVID-19 para entrenamiento y evaluación. Puedes descargar el dataset desde los siguientes enlaces:
 
 - [Repositorio PADChest-COVID-19 en GitHub](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19/tree/master/padchest-covid#data-sources-bimcv-padchest)
-- [Descargar desde BSC-TranBioNet](https://b2drop.bsc.es/index.php/s/BIMCV-PadChest)
+- [[Descargar desde Ceib-Bioinfo](http://ceib.bioinfo.cipf.es/covid19/padchest_neumonia.zip)
 
 Asegúrate de seguir las instrucciones en el repositorio para obtener los datos correctos y para su adecuada integración en tu entorno de trabajo.
 
